@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://preview.redd.it/pygamemes-megathread-v0-90bpcdxem23b1.png?width=675&format=png&auto=webp&s=6aecff4a8cb20f2998ad425a5441e37fee2804d8" alt="мема про pygame не будет..." width="60%"/>
+</p>
+
 ## Приветствуем в мире Pygame! 
 
 Хотите создать собственную игру? Мечтаете о захватывающем приключении, которое вы сами придумаете и реализуете? Тогда Pygame – ваш идеальный инструмент!
